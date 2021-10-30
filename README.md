@@ -23,7 +23,7 @@
   <img alt="cplusplus-icon" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 </div>
 <div align="center">
-  <img alt="felipe-avatar" height="250" width="250" src="https://i.imgur.com/C73sXW3.png" />
+  <img alt="felipe-avatar" height="250" width="250" src="assets/2.png" />
 </div>
 <div align="center"></br>
    <a href="https://www.youtube.com/channel/UCB5bbTHgACvK57kfj1t5IYg" target="_blank">
