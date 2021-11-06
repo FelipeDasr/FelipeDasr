@@ -44,3 +44,9 @@
 </div>
 
 ![Snake animation](https://github.com/FelipeDasr/FelipeDasr/blob/output/github-contribution-grid-snake.svg)
+
+<div style="display: inline_block" align="center">
+  <img src="assets/gifs/3.gif" height="100"/>
+  <img src="assets/gifs/1.gif" height="100"/>
+  <img src="assets/gifs/3.gif" height="100"/>
+</div>
