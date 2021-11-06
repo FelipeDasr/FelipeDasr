@@ -1,15 +1,17 @@
 <h1 align="center">
-  Só dando uma olhadinha hehe? me chamo Felipe Dos Anjos 
+  Dando aquela olhadinha?
 </h1></br>
 
-- 🔭 Atualmente trabalho no meio freelancer como Back-end Developer
-- 🌱 Estudando Typescript
-- 💬 Me questionando sempre em como ser um dev melhor
-- ⚡ Fato engraçado é que não tem nenhum fato engraçado
+<ul>
+  <li> 🔭 Atualmente trabalho no meio freelancer como desenvolvedor back-end</li>
+  <li> 🌱 Estudando Typescript</li>
+  <li> 💬 Me questionando sempre em como ser um dev melhor</li>
+  <li> ⚡ Fato engraçado é que não tem nenhum fato engraçado</li>
+</ul>
 
 <div align="center"></br>
   <a href="https://github.com/FelipeDasr">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=FelipeDasr&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=FelipeDasr&show_icons=true&theme=radical"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeDasr&layout=compact&langs_count=7&theme=radical"/>
 </div>
   
