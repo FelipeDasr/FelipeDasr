@@ -3,7 +3,7 @@
 </h1></br>
 
 <ul>
-  <li> 🔭 Atualmente trabalho no meio freelancer como desenvolvedor back-end</li>
+  <li> 🔭 Atualmente trabalho no meio freelancer como desenvolvedor back-end Node.JS</li>
   <li> 🌱 Estudando Typescript</li>
   <li> 💬 Me questionando sempre em como ser um dev melhor</li>
   <li> ⚡ Fato engraçado é que não tem nenhum fato engraçado</li>
