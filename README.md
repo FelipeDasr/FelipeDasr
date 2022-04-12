@@ -35,6 +35,9 @@
    <a href="https://www.instagram.com/felipedasr" target="_blank">
      <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
    </a>
+   <a href="https://www.beecrowd.com.br/judge/pt/profile/355241" target="_blank">
+     <img src="https://img.shields.io/badge/-Beecrowd-8334A4?style=for-the-badge" target="_blank">
+   </a>
    <a href = "mailto:felipe.heiker07@gmail.com">
      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
    </a>
