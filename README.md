@@ -45,6 +45,11 @@
    </a>
 </div>
 
+<br/>
+<p align="center" >   
+  <img src="https://profile-counter.glitch.me/felipedasr/count.svg" />  
+</p>
+
 ![Snake animation](https://github.com/FelipeDasr/FelipeDasr/blob/output/github-contribution-grid-snake.svg)
 
 <div style="display: inline_block" align="center">
