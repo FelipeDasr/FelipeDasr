@@ -55,9 +55,11 @@
 </div>
 
 <br/>
-  
+
+
 <div style="display: inline_block" align="center">
   <img src="assets/gifs/3.gif" height="100"/>
   <img src="assets/gifs/1.gif" height="100"/>
   <img src="assets/gifs/3.gif" height="100"/>
 </div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:CB218E,100:6617CB&height=140&section=footer"/>
