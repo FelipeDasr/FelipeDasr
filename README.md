@@ -4,7 +4,7 @@
 </div></br>
 
 <ul>
-  <li> 🔭 Atualmente trabalho na Abmex como Dev back-end Node.JS</li>
+  <li> 🔭 Atualmente estou aberto para novas oportunidades</li>
   <li> 💬 Me questionando sempre em como ser um dev melhor</li>
   <li> ⚡ Fato engraçado é que não tem nenhum fato engraçado</li>
 </ul>
