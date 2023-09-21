@@ -11,7 +11,7 @@
 
 <div align="center"></br>
   <a href="https://github.com/FelipeDasr">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=FelipeDasr&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0D1117"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=FelipeDasr&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0D1117&rank_icon=github"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeDasr&layout=compact&langs_count=7&hide_border=true&theme=radical&bg_color=0D1117&"count_private=true/>
 </div>
  
