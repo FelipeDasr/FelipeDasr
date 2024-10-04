@@ -45,18 +45,15 @@
    </a>
 </div>
 
-![Snake animation](https://github.com/FelipeDasr/FelipeDasr/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/felipedasr/count.svg" />  
 </div>
 
 <br/>
-
-
-<div style="display: inline_block" align="center">
-  <img src="assets/gifs/3.gif" height="100"/>
-  <img src="assets/gifs/1.gif" height="100"/>
-  <img src="assets/gifs/3.gif" height="100"/>
-</div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:EE0E86,100:FA5B6B&height=140&section=footer"/>
