@@ -45,15 +45,16 @@
    </a>
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+<br/>
+<br/>
+<div align="center">
+  <img alt="github-snake" src="profile-3d-contrib/profile-night-rainbow.svg" height="600px"/>
+</div>
+<br/>
+<br/>
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/felipedasr/count.svg" />  
 </div>
 
-<br/>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:EE0E86,100:FA5B6B&height=140&section=footer"/>
